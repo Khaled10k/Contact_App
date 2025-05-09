@@ -1,0 +1,2 @@
+C:/Users/ENTER/Desktop/Contact_task-Route_Flutter-master/android/app/.cxx/Debug/2n3k6n50/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/ENTER/Desktop/Contact_task-Route_Flutter-master/android/app/.cxx/Debug/2n3k6n50/x86_64/CMakeFiles/rebuild_cache.dir
