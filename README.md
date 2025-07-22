@@ -1,16 +1,41 @@
-# contact
+# 📇 Contact App – Flutter
 
-A new Flutter project.
+**Contact App** is a clean and simple Flutter application for managing contacts locally.  
+It allows users to add, update, delete, and view contact details with a smooth and responsive user experience.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ➕ Add new contact (name, number, email)
+- ✏️ Edit and delete existing contacts
+- 📇 View contact details with clean layout
+- 🔍 Search functionality (optional)
+- 💾 Local storage using Hive or SharedPreferences
+- 🌓 Light & Dark mode support
+- 📱 Responsive and adaptive UI
+- 🧱 Clean code architecture and modular structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 Tech Stack
+
+| Layer            | Technology                       |
+|------------------|-----------------------------------|
+| Language         | Dart                              |
+| Framework        | Flutter                           |
+| State Management | setState / Provider / Cubit       |
+| Local Storage    | Hive / SharedPreferences          |
+| UI Components    | Material Design                   |
+| Tools            | Git, GitHub, Android Studio, VSC  |
+
+---
+
+## 🚀 Getting Started
+
+### Requirements
+
+- Flutter SDK
+- Android Studio or VS Code
+
+
