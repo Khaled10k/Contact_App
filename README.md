@@ -35,7 +35,7 @@ It allows users to add, update, delete, and view contact details with a smooth a
 
 ### Requirements
 
-- Flutter SDK
-- Android Studio or VS Code
+-- Flutter SDK
+-- Android Studio or VS Code
 
 
